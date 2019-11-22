@@ -1,1 +1,28 @@
-# тут должен быть класс Field, в качестве аргумента при создании будет передаваться canvas
+from tkinter import *
+
+
+
+
+
+class Field():
+    def __init__(self, canvas):
+        pass
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
